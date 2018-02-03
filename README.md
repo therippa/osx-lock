@@ -7,7 +7,7 @@ My current first-world problem is when I go from the computer to the couch to wa
 1. Clone the repo
 2. Run `npm install`
 3. Use something to run `flask run` as a daemon (I use supervisord)
-4. Create a shortcut/bookmark on your phone navigate to the http://address:port the flask server
+4. Create a shortcut/bookmark on your phone navigate to the http://address:port of the flask server
 
 ![](https://i.imgur.com/009CKKl.png)
 ![](https://i.imgur.com/ZbRCuJw.png)
